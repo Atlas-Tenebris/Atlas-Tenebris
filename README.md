@@ -17,7 +17,7 @@ Backend projects (not that I don't accept frontend projects, but my focus is bac
 
 - 📫 How to reach me ...
 
-  cellphone: (82( 9 9841-1232
+  cellphone: ((82) 9 9841-1232)
   e-mail: mikaelhst@gmail.com (That's a secondary e-mail, maybe i'll be late to see, but i will!)
 
 - ⚡ Fun fact: ...
