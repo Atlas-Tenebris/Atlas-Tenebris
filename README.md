@@ -12,7 +12,7 @@ Intermediate Python (OOP), introductory and intermediate JavaScript, and interme
 
 💞️ I’m looking to collaborate on ...
 
-Backend projects (though I am open to frontend projects, my main focus is backend), especially those involving databases.
+Backend projects (though I am open to frontend projects, my main focus is backend).
 
 📫 How to reach me ...
 
