@@ -17,7 +17,8 @@ Backend projects (though I am open to frontend projects, my main focus is backen
 📫 How to reach me ...
 
 Cellphone: (82) 9 9841-1232
-Email: mikaelhst@gmail.com (This is a secondary email, so I might be slow to respond, but I will!)
+Email: mikaelhst2.0@gmail.com 
+
 ⚡ Fun fact: ...
 
 I discovered programming in high school when I created a program for complex mathematical calculations. 
