@@ -4,11 +4,11 @@ I'm an Information Systems student, currently in my third period. I've worked on
 
 👀 I’m interested in...
 
-Developing backend, frontend, and full-stack projects; focusing mainly on using Python for backend and frontend applications, and JavaScript for web development. The frameworks I want to learn are Django and Pandas for Python, and React for JavaScript.
+Developing backend, frontend, and full-stack projects; focusing mainly on using Python for backend applications, and JavaScript for web development. The frameworks I want to learn are Django and Pandas for Python, and React for JavaScript.
 
 🌱 I’m currently learning ...
 
-Intermediate Python (OOP), introductory and intermediate JavaScript, and intermediate databases (specifically MySQL).
+Introductory and intermediate JavaScript, intermeditate SQL with PostgreSQL, Introductory JAVA and Introductory GO (Golang)
 
 💞️ I’m looking to collaborate on ...
 
@@ -22,7 +22,7 @@ Email: mikaelhst2.0@gmail.com
 ⚡ Fun fact: ...
 
 I discovered programming in high school when I created a program for complex mathematical calculations. 
-As a result, I didn't learn the formulas and scored 4/10 on the test.
+As a result, I didn't learn the formulas and scored 4/10 on the test. 
 
 <!---
 Atlas-Tenebris/Atlas-Tenebris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
